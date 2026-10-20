@@ -17,3 +17,11 @@ Create the public repository `RM-workshop/RM-workshop.github.io`, upload the con
 - No submission backend or analytics is included. Contact links open email.
 
 Local preview: `python3 -m http.server 8765` from this folder.
+
+## October 2026 design update
+
+Navigation and section structure were reorganized with https://active-perception-workshop.github.io/ as a reference. Copy is concise and the full tentative schedule is expandable. Organizers and the Scientific Advisory Board remain distinct.
+
+The ICRA 2027 banner was supplied by the website owner. Main conference dates (24–28 May 2027) and venue (COEX, Seoul) were checked against https://2027.ieee-icra.org/ and https://2027.ieee-icra.org/attend/venue-conference-center/. These are conference details, not a confirmed workshop date.
+
+`assets/reality-matters-logo.png` is the independently generated workshop logo. It is not the official ICRA logo. The original concept uses interlocking solid and outline twins with a check-shaped negative space.

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "angela",
+    "name": "Angela Faragasso",
+    "homepage": "https://angela-faragasso.com/",
+    "source_image_url": "https://angelafiska.github.io/icra2026-automation-workshop/img/angela.png",
+    "local_filename": "angela.png",
+    "source_page": "https://angelafiska.github.io/icra2026-automation-workshop/"
+  },
+  {
+    "id": "birgit",
+    "name": "Birgit Vogel-Heuser",
+    "homepage": "https://www.professoren.tum.de/en/vogel-heuser-birgit",
+    "source_image_url": "https://www.professoren.tum.de/fileadmin/w00bgr/www/Vogel-Heuser_Photo_140x180_neu.jpg",
+    "local_filename": "birgit.jpg"
+  },
+  {
+    "id": "maria",
+    "name": "Maria Pia Fanti",
+    "homepage": "https://lca-projects.poliba.it/lca/Fanti.htm",
+    "source_image_url": "https://angelafiska.github.io/icra2026-automation-workshop/img/mariapia.jpg",
+    "local_filename": "maria.jpg",
+    "source_page": "https://angelafiska.github.io/icra2026-automation-workshop/"
+  },
+  {
+    "id": "bing",
+    "name": "Bing Yan",
+    "homepage": "https://www.rit.edu/directory/bxyeee-bing-yan",
+    "source_image_url": "https://claws.rit.edu/photos/getphotoid.php?Client=Marketing&UN=bxyeee&HASH=98f3e94ea8000407240bb381ee8e4d6d5f837550&T=1792501473",
+    "local_filename": "bing.jpg"
+  },
+  {
+    "id": "yuqian",
+    "name": "Yuqian Lu",
+    "homepage": "https://profiles.auckland.ac.nz/yuqian-lu",
+    "source_image_url": "https://www.ieee-ras.org/wp-content/uploads/images/files/com_directories_images/1626_lu_yuqian.jpg",
+    "local_filename": "yuqian.jpg",
+    "source_page": "https://www.ieee-ras.org/ras_member/yuqian-lu/"
+  },
+  {
+    "id": "lingdong",
+    "name": "Lingdong Kong",
+    "homepage": "https://ldkong.com",
+    "source_image_url": "https://ldkong.com/images/lingdong-avatar3.jpg",
+    "local_filename": "lingdong.jpg"
+  },
+  {
+    "id": "chenghao",
+    "name": "Chenghao Qian",
+    "homepage": "https://jumponthemoon.github.io/",
+    "source_image_url": "https://jumponthemoon.github.io/assets/img/prof_pic.jpg",
+    "local_filename": "chenghao.jpg"
+  },
+  {
+    "id": "yuhu",
+    "name": "Yuhu Guo",
+    "homepage": "https://anabur920.github.io/",
+    "source_image_url": "https://anabur920.github.io/Source_files/photo.jpg",
+    "local_filename": "yuhu.jpg"
+  },
+  {
+    "id": "yiming",
+    "name": "Yiming Li",
+    "homepage": "https://yimingli1998.github.io/",
+    "source_image_url": "https://yimingli1998.github.io/images/new_avatar.jpg",
+    "local_filename": "yiming.jpg"
+  },
+  {
+    "id": "guangming",
+    "name": "Guangming Wang",
+    "homepage": "https://guangmingw.github.io/",
+    "source_image_url": "https://guangmingw.github.io/imgs/Guangming2.jpg",
+    "local_filename": "guangming.jpg"
+  },
+  {
+    "id": "fangcheng",
+    "name": "Fangcheng Zhong",
+    "homepage": "https://www.cl.cam.ac.uk/~fz261/",
+    "source_image_url": "https://www.cl.cam.ac.uk/~fz261/images/zfc.jpg",
+    "local_filename": "fangcheng.jpg"
+  },
+  {
+    "id": "guoxin",
+    "name": "Guoxin Fang",
+    "homepage": "https://guoxinfang.github.io/",
+    "source_image_url": "https://guoxinfang.github.io/optimized/GXF-1600.webp",
+    "local_filename": "guoxin.webp"
+  },
+  {
+    "id": "olaf",
+    "name": "Olaf Wysocki",
+    "homepage": "https://olafwysocki.github.io/",
+    "source_image_url": "https://olafwysocki.github.io/images/DSC_0545_cropped_2.jpg",
+    "local_filename": "olaf.jpg"
+  },
+  {
+    "id": "qingshan",
+    "name": "Qing-Shan Jia",
+    "homepage": "https://www.au.tsinghua.edu.cn/info/1076/3252.htm",
+    "source_image_url": "https://www.au.tsinghua.edu.cn/__local/D/62/2C/3E39C17E0EA7AEF3DDE095B48BE_42EC8E09_638C.jpg",
+    "local_filename": "qingshan.jpg"
+  },
+  {
+    "id": "ruotian",
+    "name": "Ruotian Liu",
+    "homepage": "https://dei.poliba.it/ruotian-liu/",
+    "source_image_url": null,
+    "local_filename": null,
+    "note": "Official departmental profile verified. No portrait available on that page; use initials placeholder."
+  }
+]

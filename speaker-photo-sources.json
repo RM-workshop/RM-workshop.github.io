@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Peter Yichen Chen",
+    "homepage": "https://peterchencyc.com/",
+    "image_url": "https://peterchencyc.com/assets/img/prof_pic.jpg",
+    "file": "assets/speaker-peter.jpg"
+  },
+  {
+    "name": "Ming Hou",
+    "homepage": "https://www.ieeesmc.org/wp-content/uploads/2024/03/Bio_HOU_IEEE_DL.pdf",
+    "image_url": "https://www.ieeesmc.org/wp-content/uploads/2024/03/ming-hou-150x150.png",
+    "file": "assets/speaker-ming.png"
+  },
+  {
+    "name": "Brian Sheil",
+    "homepage": "https://www.universityofgalway.ie/infrastructure-research/meettheteam/",
+    "image_url": "https://www.universityofgalway.ie/media/researchsites/ciri/images/120WARD-BURKE-University-of-Galway.jpg",
+    "file": "assets/speaker-brian.jpg"
+  },
+  {
+    "name": "Yida Wang",
+    "homepage": "https://wangyida.github.io/",
+    "image_url": null,
+    "file": "assets/speaker-yida.png",
+    "source": "Portrait supplied by workshop organizer, 2026-10-31"
+  },
+  {
+    "name": "Jing Xiao",
+    "homepage": "https://users.wpi.edu/~jxiao2/",
+    "image_url": "https://users.wpi.edu/~jxiao2/jing_v2.jpg",
+    "file": "assets/speaker-jing.jpg"
+  },
+  {
+    "name": "Enrica Tricomi",
+    "homepage": "https://www.professoren.tum.de/data/tricomi-enrica",
+    "image_url": "https://www.professoren.tum.de/fileadmin/w00bgr/www/Tricomi_E.jpg",
+    "file": "assets/speaker-enrica.jpg"
+  },
+  {
+    "name": "Kei Ota",
+    "homepage": "https://keiohta.github.io/",
+    "image_url": "https://keiohta.github.io/assets/img/prof_pic.jpg",
+    "file": "assets/speaker-kei.jpg"
+  },
+  {
+    "name": "Yilun Du",
+    "homepage": "https://yilundu.github.io/",
+    "image_url": "https://yilundu.github.io/images/yilun8_avatar.jpg",
+    "file": "assets/speaker-yilun.jpg"
+  }
+]
